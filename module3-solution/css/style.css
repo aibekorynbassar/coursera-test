@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+#header-nav {
+    background-color: maroon;
+    border: 0;
+    border-radius: 0;
+    border: 2px solid black;
+    position: relative;
+
+}
+.navbar-brand {
+    margin: 10px;
+}
+.navbar-brand h1 {
+    margin: 10px;
+    position: absolute;
+    left: 30px;
+    top: 10px;
+    color: yellow;
+}
+
+
+.row {
+    margin: 10px;
+}
+.col-xs-12 {
+    background-color: yellow;
+}
+.row h2 {
+    text-align: center; 
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    text-align: center;
+    color: yellow;
+}
+
+#smg {
+    border-bottom: 0px solid black;
+}
+#ssh {
+    border-bottom: 1px solid black;
+    padding-bottom: 16px;
+}
+#seds {
+    border-bottom: 1px solid black;
+    padding-bottom: 16px;
+}
+.col-xs-12 p {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1 {
+    margin-bottom: 20px;
+}
